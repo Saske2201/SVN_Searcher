@@ -12,11 +12,13 @@ I want to thank everyone who actively uses the program and helps improve it!
 
 Fixed:
 
-Images with spaces in their file paths couldn't be loaded in the preview window due to an issue. The issue has been fixed.
+- Images with spaces in their file paths couldn't be loaded in the preview window due to an issue. The issue has been fixed.
+
+- .TGA format images were occasionally displayed upside down.
 
 Added:
 
-.PSD file formats can now be viewed in the preview window.
+- .PSD file formats can now be viewed in the preview window.
 
 
 # v2.1.1 (hotfix)
