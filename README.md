@@ -1,6 +1,7 @@
 # SVN_Searcher
 
 Installation Requirements:
+
 During the installation of any version of TortoiseSVN (there is no need to update Tortoise itself; simply use the Modify option), ensure that the "Command Line Tools" checkbox is selected, then complete the installation. The program itself is part of the Portable series (download and run).
 
 # v2.1.1 (hotfix)
