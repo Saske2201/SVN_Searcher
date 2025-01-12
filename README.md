@@ -14,8 +14,6 @@ Fixed:
 
 - Images with spaces in their file paths couldn't be loaded in the preview window due to an issue. The issue has been fixed.
 
-- .TGA format images were occasionally displayed upside down.
-
 Added:
 
 - .PSD file formats can now be viewed in the preview window.
