@@ -8,6 +8,21 @@ IMPORTANT!!!
 
 I want to thank everyone who actively uses the program and helps improve it!
 
+# v2.1.3 (hotfix)
+
+Added:
+
+- You can now use the "*" wildcard both before and after the desired word when searching for files. Additionally, you can specify a particular file format at the end of your search query. This method also works with the filter.
+
+- A new option, "Download Selected Items," has been added to the context menu, which can be accessed by right-clicking.
+
+- You can download multiple files by selecting the desired files either using "Shift" for consecutive selection or "Ctrl" for non-consecutive selection. After selecting, right-click and choose "Download Selected Items."
+
+Fixed:
+
+- Empty folders are no longer displayed in the search results.
+
+
 # v2.1.2 (hotfix)
 
 Fixed:
