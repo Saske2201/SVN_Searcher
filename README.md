@@ -13,7 +13,7 @@ I want to thank everyone who actively uses the program and helps improve it!
 Fixed:
 
 - launching some .GIF image caused a critical error, after which it was impossible to view any other images. Now everything works correctly;
-- 
+
 - an issue where the loading icon for the first image appeared in the top-left corner instead of the center.
 
 # v2.1.3 (hotfix)
