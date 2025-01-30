@@ -8,6 +8,10 @@ IMPORTANT!!!
 
 I want to thank everyone who actively uses the program and helps improve it!
 
+# v2.1.5 (fix)
+
+- There was a problem: if the SVN URL contained spaces, the search wouldn’t work for that query. It’s now fixed.
+
 # v2.1.4 (Small Bugfix Patch)
 
 Fixed:
