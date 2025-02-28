@@ -12,11 +12,12 @@ I want to thank everyone who actively uses the program and helps improve it!
 
 Fixed:
 
-There was an issue where the search process couldn't start if your password contained special characters (like "*&^%$#@"). This problem has now been fixed, and you can use any password without issues.
+- There was an issue where the search process couldn't start if your password contained special characters (like "*&^%$#@"). This problem has now been fixed, and you can use any password without issues.
+
 Added error pop-ups:
 
-If the login or password is not entered, you will see a pop-up asking you to fill them in;
-If the search process fails to start, after 5 seconds, you will receive Error 22, indicating that the search couldn't be initiated and further investigation is required;
+- If the login or password is not entered, you will see a pop-up asking you to fill them in;
+- If the search process fails to start, after 5 seconds, you will receive Error 22, indicating that the search couldn't be initiated and further investigation is required;
 
 # v2.1.5 (fix)
 
