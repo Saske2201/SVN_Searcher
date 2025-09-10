@@ -1,4 +1,4 @@
-# SVN_Searcher
+### SVN_Searcher
 
 Installation Requirements:
 
@@ -8,7 +8,95 @@ IMPORTANT!!!
 
 I want to thank everyone who actively uses the program and helps improve it!
 
-# v2.1.6
+### **Major Update — v2.2.0**
+
+# **New**
+
+- **Completely redesigned interface**
+The visual part of the application has been reworked: the interface is now more attractive, structured, and intuitive.
+
+- **Login and About forms**
+They are now located under the application title: to open them, simply click on the title once.
+
+- **Enhanced data encryption system**
+A stronger and more secure data encryption mechanism has been implemented to improve overall security.
+
+- **Three color themes**
+Added theme options:
+1. Light blue;
+2. Dark orange;
+3. Dark emerald.
+
+To switch themes, click on the hedgehog icon: a menu will appear where you can select the theme.
+
+- **Address history for _Enter SVN Repository Path_ textbox**
+The last entered paths are now saved (up to 5 entries). To open the list, use the arrow on the right side of the text field.
+Initially the history is empty (a popup will notify you). Duplicate addresses are not saved.
+When the limit of 5 is reached, the oldest entry is replaced with the newest one. You can clear the history with the _Delete History_ button in the saved paths window.
+
+- **Updated search logic**
+The system now helps you understand which search modes are available:
+Clicking on _Enter File Name_ textbox opens a dropdown menu to choose a "Search type". Default mode is _Contains_. Entering a single dot automatically switches to _Show all files_. Entering a dot "." followed by text switches to _Ends with_. 
+This behavior applies until you manually select a different option.
+
+- **_Case Sensitive_ option**
+Now located on the right side of the related text fields. Behavior remains the same as before.
+
+- **Start and stop search with _Enter_**
+Pressing Enter now starts or stops the search.
+
+- **_About_ window**
+Now includes service icons and a PayPal donation button, so you can support the development.
+
+- **New file download system**
+Previously, downloads used the default browser. Now the process is fully localized inside the app:
+Double-click a file or right-click → _Download Selected Items_.
+A dialog will let you choose a save folder.
+_Save path history_ is available via the arrow on the right of the text field. The last used path is selected automatically. You can save with or without folder hierarchy - controlled by a _checkbox_. The download progress is shown in a dedicated process window.
+
+- **Audio and video support**
+You can now open and play media files (most popular formats supported): click a file, and a built-in player will appear on the right.
+Controls:
+- LMB — play/pause,
+- mouse wheel — volume,
+- speaker icon near the timeline — quick mute/unmute.
+
+- **New context menu features in the file list**
+Added the ability to copy the selected file name.
+
+- **Filters**
+_The sort button_ has been moved to the bottom-right corner of the file list and replaced with a _Filters_ button.
+Available options:
+1. sort by extension;
+2. sort by file name;
+3. show/hide full file path;
+4. hide files without extension.
+
+- **Font scaling**
+You can now increase or decrease the font size in the file list. Controlled via _+_ and _-_ buttons next to the percentage display.
+
+- **_Enter Filter Text_**
+Works as before, but now also includes a dropdown _Filter type_ (similar to _Enter File Name_).
+
+- **Statistics**
+The bottom-right corner now shows the total number of found files and the number of files matching the current query.
+
+- **Tooltips**
+Helpful _tooltips_ have been added to key interface elements.
+
+# **Fixed**
+
+- Images not showing on first launch - fixed.
+- Placeholder issues: they now always disappear correctly and no longer affect text color.
+- Context menu could be triggered on an empty file list - fixed.
+- Overall optimization and performance improvements.
+- Minor bugs have also been fixed.
+
+# **Notes**
+
+The application file size has almost doubled due to the large number of new features and visual improvements!
+
+### v2.1.6
 
 Fixed:
 
@@ -19,11 +107,11 @@ Added error pop-ups:
 - If the login or password is not entered, you will see a pop-up asking you to fill them in;
 - If the search process fails to start, after 5 seconds, you will receive Error 22, indicating that the search couldn't be initiated and further investigation is required;
 
-# v2.1.5 (fix)
+### v2.1.5 (fix)
 
 - There was a problem: if the SVN URL contained spaces, the search wouldn’t work for that query. It’s now fixed.
 
-# v2.1.4 (Small Bugfix Patch)
+### v2.1.4 (Small Bugfix Patch)
 
 Fixed:
 
@@ -31,7 +119,7 @@ Fixed:
 
 - an issue where the loading icon for the first image appeared in the top-left corner instead of the center.
 
-# v2.1.3 (hotfix)
+### v2.1.3 (hotfix)
 
 Added:
 
@@ -46,7 +134,7 @@ Fixed:
 - Empty folders are no longer displayed in the search results.
 
 
-# v2.1.2 (hotfix)
+### v2.1.2 (hotfix)
 
 Fixed:
 
@@ -57,7 +145,7 @@ Added:
 - .PSD file formats can now be viewed in the preview window.
 
 
-# v2.1.1 (hotfix)
+### v2.1.1 (hotfix)
 
 Added:
 
@@ -67,7 +155,7 @@ Added:
 - Icons have been added to all windows.
 - Some window names have been changed.
 
-# v2.1
+### v2.1
 
 Removed:
 
@@ -91,7 +179,7 @@ Added:
 - In the "About" tab, there are links to GitHub, where you can review all updates, as well as my email for suggestions on improving the software.
 
 
-# v2.0.1 (hotfix)
+### v2.0.1 (hotfix)
 
 Fixed:
 
@@ -103,7 +191,7 @@ Fixed:
 
 - A horizontal scrollbar has been added to the window displaying the found items.
 
-# v2.0.0 
+### v2.0.0 
 
 How to Use and Available Features:
 
@@ -142,7 +230,7 @@ Once a list of files is generated, you can:
 
 - Next to the "Last File" label, you can monitor the search progress.
 
-# v1.0.0
+### v1.0.0
 
 Added:
 
