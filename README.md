@@ -13,15 +13,19 @@ I want to thank everyone who actively uses the program and helps improve it!
 **New**
 
 - **Completely redesigned interface**
+  
 The visual part of the application has been reworked: the interface is now more attractive, structured, and intuitive.
 
 - **Login and About forms**
+  
 They are now located under the application title: to open them, simply click on the title once.
 
 - **Enhanced data encryption system**
+  
 A stronger and more secure data encryption mechanism has been implemented to improve overall security.
 
 - **Three color themes**
+  
 Added theme options:
 1. Light blue;
 2. Dark orange;
@@ -30,31 +34,38 @@ Added theme options:
 To switch themes, click on the hedgehog icon: a menu will appear where you can select the theme.
 
 - **Address history for _Enter SVN Repository Path_ textbox**
+  
 The last entered paths are now saved (up to 5 entries). To open the list, use the arrow on the right side of the text field.
 Initially the history is empty (a popup will notify you). Duplicate addresses are not saved.
 When the limit of 5 is reached, the oldest entry is replaced with the newest one. You can clear the history with the _Delete History_ button in the saved paths window.
 
 - **Updated search logic**
+  
 The system now helps you understand which search modes are available:
 Clicking on _Enter File Name_ textbox opens a dropdown menu to choose a "Search type". Default mode is _Contains_. Entering a single dot automatically switches to _Show all files_. Entering a dot "." followed by text switches to _Ends with_. 
 This behavior applies until you manually select a different option.
 
 - **_Case Sensitive_ option**
+  
 Now located on the right side of the related text fields. Behavior remains the same as before.
 
 - **Start and stop search with _Enter_**
+  
 Pressing Enter now starts or stops the search.
 
 - **_About_ window**
+  
 Now includes service icons and a PayPal donation button, so you can support the development.
 
 - **New file download system**
+  
 Previously, downloads used the default browser. Now the process is fully localized inside the app:
 Double-click a file or right-click → _Download Selected Items_.
 A dialog will let you choose a save folder.
 _Save path history_ is available via the arrow on the right of the text field. The last used path is selected automatically. You can save with or without folder hierarchy - controlled by a _checkbox_. The download progress is shown in a dedicated process window.
 
 - **Audio and video support**
+  
 You can now open and play media files (most popular formats supported): click a file, and a built-in player will appear on the right.
 Controls:
 - LMB — play/pause,
@@ -62,9 +73,11 @@ Controls:
 - speaker icon near the timeline — quick mute/unmute.
 
 - **New context menu features in the file list**
+  
 Added the ability to copy the selected file name.
 
 - **Filters**
+  
 _The sort button_ has been moved to the bottom-right corner of the file list and replaced with a _Filters_ button.
 Available options:
 1. sort by extension;
@@ -73,15 +86,19 @@ Available options:
 4. hide files without extension.
 
 - **Font scaling**
+  
 You can now increase or decrease the font size in the file list. Controlled via _+_ and _-_ buttons next to the percentage display.
 
 - **_Enter Filter Text_**
+  
 Works as before, but now also includes a dropdown _Filter type_ (similar to _Enter File Name_).
 
 - **Statistics**
+  
 The bottom-right corner now shows the total number of found files and the number of files matching the current query.
 
 - **Tooltips**
+  
 Helpful _tooltips_ have been added to key interface elements.
 
 **Fixed**
