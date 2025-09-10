@@ -1,4 +1,4 @@
-### SVN_Searcher
+# SVN_Searcher
 
 Installation Requirements:
 
@@ -8,9 +8,9 @@ IMPORTANT!!!
 
 I want to thank everyone who actively uses the program and helps improve it!
 
-### **Major Update — v2.2.0**
+# **Major Update — v2.2.0**
 
-# **New**
+**New**
 
 - **Completely redesigned interface**
 The visual part of the application has been reworked: the interface is now more attractive, structured, and intuitive.
@@ -84,7 +84,7 @@ The bottom-right corner now shows the total number of found files and the number
 - **Tooltips**
 Helpful _tooltips_ have been added to key interface elements.
 
-# **Fixed**
+**Fixed**
 
 - Images not showing on first launch - fixed.
 - Placeholder issues: they now always disappear correctly and no longer affect text color.
@@ -92,11 +92,11 @@ Helpful _tooltips_ have been added to key interface elements.
 - Overall optimization and performance improvements.
 - Minor bugs have also been fixed.
 
-# **Notes**
+**Notes**
 
 The application file size has almost doubled due to the large number of new features and visual improvements!
 
-### v2.1.6
+# v2.1.6
 
 Fixed:
 
@@ -107,11 +107,11 @@ Added error pop-ups:
 - If the login or password is not entered, you will see a pop-up asking you to fill them in;
 - If the search process fails to start, after 5 seconds, you will receive Error 22, indicating that the search couldn't be initiated and further investigation is required;
 
-### v2.1.5 (fix)
+# v2.1.5 (fix)
 
 - There was a problem: if the SVN URL contained spaces, the search wouldn’t work for that query. It’s now fixed.
 
-### v2.1.4 (Small Bugfix Patch)
+# v2.1.4 (Small Bugfix Patch)
 
 Fixed:
 
@@ -119,7 +119,7 @@ Fixed:
 
 - an issue where the loading icon for the first image appeared in the top-left corner instead of the center.
 
-### v2.1.3 (hotfix)
+# v2.1.3 (hotfix)
 
 Added:
 
@@ -134,7 +134,7 @@ Fixed:
 - Empty folders are no longer displayed in the search results.
 
 
-### v2.1.2 (hotfix)
+# v2.1.2 (hotfix)
 
 Fixed:
 
@@ -145,7 +145,7 @@ Added:
 - .PSD file formats can now be viewed in the preview window.
 
 
-### v2.1.1 (hotfix)
+# v2.1.1 (hotfix)
 
 Added:
 
@@ -155,7 +155,7 @@ Added:
 - Icons have been added to all windows.
 - Some window names have been changed.
 
-### v2.1
+# v2.1
 
 Removed:
 
@@ -179,7 +179,7 @@ Added:
 - In the "About" tab, there are links to GitHub, where you can review all updates, as well as my email for suggestions on improving the software.
 
 
-### v2.0.1 (hotfix)
+# v2.0.1 (hotfix)
 
 Fixed:
 
@@ -191,7 +191,7 @@ Fixed:
 
 - A horizontal scrollbar has been added to the window displaying the found items.
 
-### v2.0.0 
+# v2.0.0 
 
 How to Use and Available Features:
 
@@ -230,7 +230,7 @@ Once a list of files is generated, you can:
 
 - Next to the "Last File" label, you can monitor the search progress.
 
-### v1.0.0
+# v1.0.0
 
 Added:
 
