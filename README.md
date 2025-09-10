@@ -1,4 +1,4 @@
-# SVN_Searcher
+# SVN File Searcher
 
 Installation Requirements:
 
