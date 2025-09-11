@@ -57,6 +57,9 @@ Pressing Enter now starts or stops the search.
   
 Now includes service icons and a PayPal donation button, so you can support the development.
 
+- **Additional file information**
+Now, when you hover over a list item, a tooltip will appear showing extra details about the file.
+
 - **New file download system**
   
 Previously, downloads used the default browser. Now the process is fully localized inside the app:
