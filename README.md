@@ -8,6 +8,11 @@ IMPORTANT!!!
 
 I want to thank everyone who actively uses the program and helps improve it!
 
+# v2.2.0.1 (hotfix)
+
+- Fixed duplication of the context window after stopping the search;
+- Fixed an issue where selecting more than one file in the item list was not possible.
+
 # **Major Update — v2.2.0**
 
 **New**
