@@ -97,6 +97,9 @@ Available options:
   
 You can now increase or decrease the font size in the file list. Controlled via _+_ and _-_ buttons next to the percentage display.
 
+- **Movable splitter** 
+Now you can resize the image preview area by simply dragging the splitter.
+
 - **_Enter Filter Text_**
   
 Works as before, but now also includes a dropdown _Filter type_ (similar to _Enter File Name_).
